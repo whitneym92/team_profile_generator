@@ -17,7 +17,7 @@
   ## Demo
   ![Demo](/assets/npm.test.png)
   Watch Video Here:
-  <iframe src="https://drive.google.com/file/d/1BOsH_owfX3kDHIgTvFg37_2PBCKD_aeQ/preview" width="640" height="480"></iframe>
+  https://drive.google.com/file/d/1BOsH_owfX3kDHIgTvFg37_2PBCKD_aeQ/view
  
 
   ## Usage
